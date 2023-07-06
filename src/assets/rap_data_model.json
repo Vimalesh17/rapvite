@@ -25,7 +25,7 @@
             ]
         },
         {
-            "subCategoryId" : "2",
+            "categoryId" : "2",
             "categoryName" : "allast",
             "apporved"     : "90",
             "pending"      : "100",
