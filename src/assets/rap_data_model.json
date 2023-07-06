@@ -1,0 +1,48 @@
+{
+    "data" : [
+        {   
+            "categoryId" : "1",
+            "categoryName" : "Ballast",
+            "apporved"     : "70",
+            "pending"      : "100",
+            "compettitor1" : "5",
+            "compettitor2" : "10",
+
+            "subCategory"  : [
+                {
+                    "subCategoryId" : "1",
+                    "subData": "car",
+                    "apporved": "6",
+                    "pending" : "7"
+                },
+                {
+                    "subCategoryId" : "2",
+                    "subData": "car",
+                    "apporved": "6",
+                    "pending" : "7"
+                }
+                
+            ]
+        },
+        {
+            "subCategoryId" : "2",
+            "categoryName" : "allast",
+            "apporved"     : "90",
+            "pending"      : "100",
+            "compettitor1" : "15",
+            "compettitor2" : "100",
+            "subCategory"  : [
+                {
+                    "subData": "car",
+                    "apporved": "6",
+                    "pending" : "7"
+                },
+                {
+                    "subData": "car",
+                    "apporved": "6",
+                    "pending" : "7"
+                }
+            ]
+        }
+    ]
+}
